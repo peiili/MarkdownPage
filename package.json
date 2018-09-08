@@ -1,0 +1,19 @@
+{
+  "name": "03_mkdownTest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "markdown": "^0.5.0",
+    "marked": "^0.5.0",
+    "xtemplate": "^4.6.1",
+    "xtpl": "^3.4.0"
+  }
+}
